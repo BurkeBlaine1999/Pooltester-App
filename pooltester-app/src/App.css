@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: red;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+
+.App-header {
+  background-color: rgba(132, 203, 212, 0.5);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Api {
+  background-color: rgb(211, 175, 58);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: top;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.App-link {
+  color: #09d3ac;
+}
+
+#icon{
+  float: right;
+}
+
