@@ -16,24 +16,24 @@ $ use 'npm start'
 ```sh
 $ At first you will arrive at the index page, on this page you are greeted to the app by
 the current time and can also view the current weather in Galway city by using my Api created
-using Openweather
+using Openweather.
 ```
 ```sh
-$ Next click on the Add results Tab on the navigation bar. Once there enter the chlorine , 
-pH and the name of the person that conducted the pooltest and submit.
+$ Next click on the Add results Tab on the navigation bar. Once there, enter the chlorine, 
+pH and the name of the person that conducted the pool test and then submit the results.
 ```
 ```sh
-$ Make your way back to the results tab and here you can now see your previously entered result.
+$ Make your way back to the results tab where you can now see your previously entered results.
 Here you now have the option to either delete or to edit the results.
 ```
 ```sh
-$ If you choose to edit , you will be brough to the Update page where you will have the 
+$ If you choose to edit, you will be brought to the Update page where you will have the 
 option to change the chlorine, pH and name values of the selected result.
-Once you submit your new values go back to the results tab and your results will have updated.
+Once you submit your new values go back to the results tab and your results will be updated.
 ```
 ```sh
-$ If you choose to delete, you will recieve an alert saying that the result has been deleted.
-The page then will automatically refresh and the result will have been removed
+$ If you choose to delete a result you will recieve an alert saying that the result has been deleted.
+The page will then automatically refresh and the result will have been removed.
 ```
 ## Versioning
 
