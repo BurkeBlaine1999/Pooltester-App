@@ -1,5 +1,5 @@
-# Pooltester react app -- Blaine Burke
-My pooltester app records your pooltest results and stores them on a MongoDB database.
+# Pool tester react app -- Blaine Burke
+My pool tester app records your pooltest results and stores them on a MongoDB database.
 
 ## Getting Started
 ```sh
