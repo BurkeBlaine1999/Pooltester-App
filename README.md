@@ -8,11 +8,11 @@ $ Open cmd prompt and enter the folder
 $ use 'npm install'
 $ use 'npm start'
 ```
-### Requirements
+## Requirements
 
 * [React](https://reactjs.org/) - The Language used
 
-### Walkthrough
+## Walkthrough
 ```sh
 $ At first you will arrive at the index page, on this page you are greeted to the app by
 the current time and can also view the current weather in Galway city by using my Api created
