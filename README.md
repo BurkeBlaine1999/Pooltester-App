@@ -14,8 +14,9 @@ $ use 'npm start'
 
 ### Walkthrough
 ```sh
-$ At first you will arrive at the index page, on this page you are greeted to the app
-and can also view the current weather in Galway city
+$ At first you will arrive at the index page, on this page you are greeted to the app by
+the current time and can also view the current weather in Galway city by using my Api created
+using Openweather
 ```
 ```sh
 $ Next click on the Add results Tab on the navigation bar. Once there enter the chlorine , 
@@ -47,6 +48,7 @@ The page then will automatically refresh and the result will have been removed
 * **[Mern Application](https://github.com/MERN-Application)**
 * **[React Docs](https://reactjs.org/)**
 * **[Material UI](https://material-ui.com/)**
+* **[Open Weather Api](https://openweathermap.org/api)**
 
 ## Created for..
 
